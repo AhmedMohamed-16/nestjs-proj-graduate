@@ -1,0 +1,11 @@
+{
+  "prettier.enable": true,
+  "prettier.endOfLine": "auto",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "codeium.enableCodeLens": false,
+  "codium.editorButton": false
+  //make enable codium
+}
